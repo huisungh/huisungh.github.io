@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Hui Sun
+
+Hi, welcome! 
 
 You can use the [editor on GitHub](https://github.com/huisungh/huisungh.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
